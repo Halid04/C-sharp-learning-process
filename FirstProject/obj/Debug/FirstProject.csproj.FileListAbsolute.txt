@@ -1,0 +1,8 @@
+C:\Users\halid\OneDrive\Desktop\c_sharp projects\FirstProject\bin\Debug\FirstProject.exe.config
+C:\Users\halid\OneDrive\Desktop\c_sharp projects\FirstProject\bin\Debug\FirstProject.exe
+C:\Users\halid\OneDrive\Desktop\c_sharp projects\FirstProject\bin\Debug\FirstProject.pdb
+C:\Users\halid\OneDrive\Desktop\c_sharp projects\FirstProject\obj\Debug\FirstProject.csproj.AssemblyReference.cache
+C:\Users\halid\OneDrive\Desktop\c_sharp projects\FirstProject\obj\Debug\FirstProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\halid\OneDrive\Desktop\c_sharp projects\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\halid\OneDrive\Desktop\c_sharp projects\FirstProject\obj\Debug\FirstProject.exe
+C:\Users\halid\OneDrive\Desktop\c_sharp projects\FirstProject\obj\Debug\FirstProject.pdb
