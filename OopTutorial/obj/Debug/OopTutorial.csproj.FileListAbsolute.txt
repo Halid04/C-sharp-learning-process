@@ -1,0 +1,8 @@
+C:\Users\halid\OneDrive\Desktop\c_sharp projects\OopTutorial\bin\Debug\OopTutorial.exe.config
+C:\Users\halid\OneDrive\Desktop\c_sharp projects\OopTutorial\bin\Debug\OopTutorial.exe
+C:\Users\halid\OneDrive\Desktop\c_sharp projects\OopTutorial\bin\Debug\OopTutorial.pdb
+C:\Users\halid\OneDrive\Desktop\c_sharp projects\OopTutorial\obj\Debug\OopTutorial.csproj.AssemblyReference.cache
+C:\Users\halid\OneDrive\Desktop\c_sharp projects\OopTutorial\obj\Debug\OopTutorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\halid\OneDrive\Desktop\c_sharp projects\OopTutorial\obj\Debug\OopTutorial.csproj.CoreCompileInputs.cache
+C:\Users\halid\OneDrive\Desktop\c_sharp projects\OopTutorial\obj\Debug\OopTutorial.exe
+C:\Users\halid\OneDrive\Desktop\c_sharp projects\OopTutorial\obj\Debug\OopTutorial.pdb
