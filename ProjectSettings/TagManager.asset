@@ -4,12 +4,14 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Logic
+  - LeftBorder
+  - RightBorder
+  - TopBorder
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Bird
+  - 
   - Water
   - UI
   - 
